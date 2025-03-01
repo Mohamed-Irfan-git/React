@@ -7,6 +7,8 @@ function App() {
     <>
     <CourseList></CourseList>
     </>
+
+    // I added this comment line
   )
 }
 
